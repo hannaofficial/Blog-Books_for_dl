@@ -16,3 +16,10 @@ Attention and Augmented Recurrent Neural Networks
 https://distill.pub/2016/augmented-rnns/
 
 
+another book <br/>
+https://slds-lmu.github.io/seminar_nlp_ss20/introduction-transfer-learning-for-nlp.html#self-attention
+
+pytorch seq2seq2 attention by bahdauna Implementation <br/>
+https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb
+
+
