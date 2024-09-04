@@ -22,4 +22,7 @@ https://slds-lmu.github.io/seminar_nlp_ss20/introduction-transfer-learning-for-n
 pytorch seq2seq2 attention by bahdauna Implementation <br/>
 https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb
 
+Best video for learning adam optimiser <br/>
+https://www.youtube.com/watch?v=MD2fYip6QsQ&t=887s
+
 
