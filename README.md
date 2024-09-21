@@ -26,3 +26,9 @@ Best video for learning adam optimiser <br/>
 https://www.youtube.com/watch?v=MD2fYip6QsQ&t=887s
 
 
+Learning foundational code for transformer
+https://adeveloperdiary.com/data-science/deep-learning/nlp/coding-transformer-model-from-scratch-using-pytorch-part-2/#google_vignette
+
+both part1 and part2 should be covered
+
+
