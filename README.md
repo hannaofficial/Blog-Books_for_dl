@@ -22,7 +22,7 @@ https://slds-lmu.github.io/seminar_nlp_ss20/introduction-transfer-learning-for-n
 pytorch seq2seq2 attention by bahdauna Implementation <br/>
 https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb
 
-Best video for learning adam optimiser <br/>
+Best video for learning concept of  adam optimiser <br/>
 https://www.youtube.com/watch?v=MD2fYip6QsQ&t=887s
 
 
@@ -30,5 +30,7 @@ Learning foundational code for transformer
 https://adeveloperdiary.com/data-science/deep-learning/nlp/coding-transformer-model-from-scratch-using-pytorch-part-2/#google_vignette
 
 both part1 and part2 should be covered
+
+Note: These link are best according to me not generally
 
 
