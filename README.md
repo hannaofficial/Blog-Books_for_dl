@@ -2,7 +2,7 @@ Note: These links and book recommendation are best according to me not generally
 
 # Blog-Books_for_dl 
 
-Grokking deep learning by Andrew trask
+**Grokking deep learning by Andrew trask**
 
 For learning RNN
 
