@@ -4,6 +4,9 @@ Note: These links and book recommendation are best according to me not generally
 
 **Grokking deep learning by Andrew trask**
 
+Blog by adrej karpathy for developing intuition about neural nets
+http://karpathy.github.io/neuralnets/
+
 For learning RNN
 
 https://karpathy.github.io/2015/05/21/rnn-effectiveness/
