@@ -36,6 +36,9 @@ https://adeveloperdiary.com/data-science/deep-learning/nlp/coding-transformer-mo
 
 both part1 and part2 should be covered
 
+#develop more intuition of deep learning or about GPT 
+see ZERO TO HERO series by adrej
+
 
 
 
